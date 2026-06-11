@@ -1,0 +1,17 @@
+numpy
+pandas
+ipykernel
+matplotlib
+requests
+scikit-learn
+seaborn
+shiny
+Jinja2
+statsmodels
+plotly
+scipy==1.14.1
+nbformat
+kagglehub
+jupyter
+pypair
+networkx
